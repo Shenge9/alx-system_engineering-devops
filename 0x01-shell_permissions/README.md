@@ -1,4 +1,4 @@
-1=Create a script that switches the current user to the user betty1.
+i1=Create a script that switches the current user to the user betty1.
 2=Write a script that prints the effective username of the current user.
 3=Write a script that prints all the groups the current user is part of.
 4=Write a script that changes the owner of the file hello to the user betty.
@@ -14,3 +14,8 @@ Create a script that creates a directory called my_dir with permissions 751 in t
 13=Write a script that changes the group owner to school for the file hello
 Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+
+Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
+Write a script that will play the StarWars IV episode in the terminal.
+
